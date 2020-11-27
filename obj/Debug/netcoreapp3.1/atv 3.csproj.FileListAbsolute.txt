@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\atv 3\bin\Debug\netcoreapp3.1\atv 3.exe
+C:\Users\nilma\Desktop\atv 3\bin\Debug\netcoreapp3.1\atv 3.deps.json
+C:\Users\nilma\Desktop\atv 3\bin\Debug\netcoreapp3.1\atv 3.runtimeconfig.json
+C:\Users\nilma\Desktop\atv 3\bin\Debug\netcoreapp3.1\atv 3.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\atv 3\bin\Debug\netcoreapp3.1\atv 3.dll
+C:\Users\nilma\Desktop\atv 3\bin\Debug\netcoreapp3.1\atv 3.pdb
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.AssemblyInfo.cs
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.dll
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.pdb
+C:\Users\nilma\Desktop\atv 3\obj\Debug\netcoreapp3.1\atv 3.genruntimeconfig.cache
